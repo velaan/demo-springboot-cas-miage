@@ -1,0 +1,8 @@
+/.mvn/
+/mvnw
+/mvnw.cmd
+/target/
+/nbactions.xml
+/nb-configuration.xml
+/src/main/webapp/js/script.js
+/src/main/webapp/css/style.css
